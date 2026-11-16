@@ -1,3 +1,10 @@
+<!-- embryo-brand -->
+# Embryo Uptime
+
+**Embryo Uptime** is Embryo-Zero's fork of [uptime-kuma](https://github.com/louislam/uptime-kuma), made by Embryo Zero Backyard Data Center Corporation. Our changes are on the `embryo` branch; see [EMBRYO.md](EMBRYO.md), [LEGAL.md](LEGAL.md) and [CHANGES-EMBRYO.md](CHANGES-EMBRYO.md). The original project's README follows unchanged, with its authors' credits.
+
+---
+
 <div align="center" width="100%">
     <img src="./public/icon.svg" width="128" alt="Uptime Kuma Logo" />
 </div>
